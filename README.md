@@ -33,7 +33,20 @@ I use GitHub to manage academic projects, coding practice, app development work,
 
 ---
 
-## 📌 Featured Work
+## 📌 Featured Projects
+
+| Project | Focus |
+|---|---|
+| [Python_Projects_CS](https://github.com/muhammadjunaidniazi/Python_Projects_CS) | Python academic and practice projects |
+| [DietConsultantApp](https://github.com/muhammadjunaidniazi/DietConsultantApp) | Android health and diet app project |
+| [DocEditor](https://github.com/muhammadjunaidniazi/DocEditor) | Document editing and productivity tools |
+| [Services](https://github.com/muhammadjunaidniazi/Services) | Service-based web project |
+| [CS-5th-project](https://github.com/muhammadjunaidniazi/CS-5th-project) | Computer Science semester project work |
+| [awesomepython](https://github.com/muhammadjunaidniazi/awesomepython) | Python learning and open-source practice |
+
+---
+
+## 🧩 Project Areas
 
 ### 🐍 Python Projects
 Academic and practice-based Python projects focused on programming fundamentals, GUI apps, and problem solving.
