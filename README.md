@@ -72,12 +72,28 @@ I use GitHub as a professional portfolio to showcase real coding projects, docum
 - **Bug Bounties & Hackathons:** Participating in coding competitions, security programs, and project-based challenges.
 - **Consulting & Training:** Offering help with Python projects, web tools, Android app development, GitHub setup, and technical documentation.
 
-### 💳 Support / Payment Information
+---
 
-For professional work, project support, freelance collaboration, or paid services, payment can be arranged through **Payoneer**.
+## ❤️ Sponsor / Support My Work
+
+If my projects, code examples, documentation, or learning resources help you, you can support my work. Sponsorship helps me continue building useful open-source projects, improving documentation, creating learning resources, and maintaining public repositories for students and developers.
+
+### What your support helps with
+
+- Improving and maintaining open-source repositories
+- Creating clean README files, guides, and project documentation
+- Building Python, web development, Android, AI, and cybersecurity learning projects
+- Publishing useful templates, tools, and beginner-friendly coding resources
+- Supporting continuous learning and practical software development work
+
+### Support / Payment Method
+
+For sponsorship, freelance collaboration, project support, or paid technical services, payment can be arranged through **Payoneer**.
 
 **Payoneer Customer ID:** `85421112`  
 **Name:** Muhammad JunaidNiazi
+
+> Thank you for supporting my learning, development work, and open-source journey.
 
 ---
 
