@@ -52,6 +52,27 @@ I use GitHub to manage academic projects, coding practice, app development work,
 
 ---
 
+## 🎓 Featured Learning Repository
+
+### [100 Days of Machine Learning Code - Course Roadmap](https://github.com/muhammadjunaidniazi/awesome)
+
+A professional machine learning learning repository inspired by structured 100-day coding roadmaps. This project is designed as a clean course-style alternative for students and beginners who want to learn machine learning step by step with Python, datasets, algorithms, practice tasks, and portfolio-ready projects.
+
+**Live Course Website:** https://muhammadjunaidniazi.github.io/awesome/
+
+**Learning Focus:**
+
+- Python for Machine Learning
+- NumPy, pandas, and data preprocessing
+- Regression and classification models
+- Decision trees and random forests
+- Clustering and unsupervised learning
+- Model evaluation and comparison
+- End-to-end ML portfolio projects
+- GitHub documentation and learning-in-public practice
+
+---
+
 ## 🌐 Live Website / GitHub Pages Link
 
 **DocProTools** is my free online document tools website for PDF and image tasks. It includes tools for merging PDFs, splitting PDFs, compressing PDFs, converting images to PDF, and removing image backgrounds online.
@@ -69,6 +90,7 @@ I use GitHub to manage academic projects, coding practice, app development work,
 
 | Project | Focus |
 |---|---|
+| [100 Days of Machine Learning Code - Course Roadmap](https://github.com/muhammadjunaidniazi/awesome) | Professional ML learning roadmap, Python practice, algorithms, and portfolio projects |
 | [DocProTools Website](https://docprotools.space/) | Free online PDF tools, image tools, and document utilities |
 | [Python_Projects_CS](https://github.com/muhammadjunaidniazi/Python_Projects_CS) | Python academic and practice projects |
 | [DietConsultantApp](https://github.com/muhammadjunaidniazi/DietConsultantApp) | Android health and diet app project |
@@ -130,6 +152,9 @@ For sponsorship, freelance collaboration, project support, or paid technical ser
 ### 🐍 Python Projects
 Academic and practice-based Python projects focused on programming fundamentals, GUI apps, and problem solving.
 
+### 🤖 Machine Learning Course Work
+Structured machine learning learning roadmap inspired by 100-day coding practice, focused on Python, datasets, algorithms, model evaluation, and portfolio projects.
+
 ### 🌐 Web & Document Tools
 Web projects related to document editing, online tools, responsive UI, and user-friendly interfaces.
 
@@ -145,7 +170,7 @@ Research and learning work related to AI security, adversarial AI, cybersecurity
 
 - Building clean and useful web tools
 - Improving Python and Android development skills
-- Learning AI, cybersecurity, and automation
+- Learning machine learning, AI, cybersecurity, and automation
 - Managing projects with GitHub pull requests, commits, issues, and version control
 - Creating professional documentation for repositories
 
