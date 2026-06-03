@@ -13,6 +13,9 @@
   <a href="https://github.com/muhammadjunaidniazi">
     <img src="https://img.shields.io/badge/GitHub-muhammadjunaidniazi-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
+  <a href="https://docprotools.space/">
+    <img src="https://img.shields.io/badge/Website-DocProTools-blue?style=for-the-badge&logo=google-chrome" alt="DocProTools Website" />
+  </a>
 </p>
 
 ---
@@ -49,10 +52,24 @@ I use GitHub to manage academic projects, coding practice, app development work,
 
 ---
 
+## 🌐 Live Website / GitHub Pages Link
+
+**DocProTools** is my free online document tools website for PDF and image tasks. It includes tools for merging PDFs, splitting PDFs, compressing PDFs, converting images to PDF, and removing image backgrounds online.
+
+🔗 **Website:** [DocProTools - Free PDF & Image Tools](https://docprotools.space/)  
+🔗 **Merge PDF:** [Merge PDF Online Free](https://docprotools.space/merge-pdf.html)  
+🔗 **Compress PDF:** [Compress PDF Online](https://docprotools.space/compress-pdf.html)  
+🔗 **Split PDF:** [Split PDF Online Free](https://docprotools.space/split-pdf.html)  
+🔗 **Image to PDF:** [Image to PDF Converter](https://docprotools.space/image-to-pdf.html)  
+🔗 **Background Remover:** [Free Background Remover Online](https://docprotools.space/bg-remove.html)
+
+---
+
 ## 📌 Featured Projects
 
 | Project | Focus |
 |---|---|
+| [DocProTools Website](https://docprotools.space/) | Free online PDF tools, image tools, and document utilities |
 | [Python_Projects_CS](https://github.com/muhammadjunaidniazi/Python_Projects_CS) | Python academic and practice projects |
 | [DietConsultantApp](https://github.com/muhammadjunaidniazi/DietConsultantApp) | Android health and diet app project |
 | [DocEditor](https://github.com/muhammadjunaidniazi/DocEditor) | Document editing and productivity tools |
